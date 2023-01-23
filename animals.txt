@@ -1,5 +1,5 @@
-A Aardvark
-B Bats
+A Aardvarks
+B Boys
 C Crows
 D Duck 
 E Elephants
