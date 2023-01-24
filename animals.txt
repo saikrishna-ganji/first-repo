@@ -1,5 +1,0 @@
-A Aardvarks
-B Bats
-C Crows
-D Ducks
-E Eagles
